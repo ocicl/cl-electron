@@ -1,0 +1,9 @@
+* cl-electron
+
+Lisp Interface to Electron.
+
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/atlas-engineer/cl-electron.git |
+| commit  | d2d8aa2                                               |
+| systems | cl-electron                                           |
+|---------+-------------------------------------------------------|
