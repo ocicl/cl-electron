@@ -4,6 +4,6 @@ Lisp Interface to Electron.
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/cl-electron.git |
-| commit  | 20e5faa                                               |
+| commit  | f27c7a0                                               |
 | systems | cl-electron                                           |
 |---------+-------------------------------------------------------|
